@@ -1,0 +1,12 @@
+button {
+  background-color: greenyellow;
+  padding: 12px 14px;
+  border: none;
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: aqua;
+  transition: 0.2s ease-in;
+}
